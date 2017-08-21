@@ -1,0 +1,2 @@
+E:\AIE\Certificate 2\Second Semester\Term 3\MySecondProject\MyFirstProject\obj\x86\Debug\MyFirstProject.exe
+E:\AIE\Certificate 2\Second Semester\Term 3\MySecondProject\MyFirstProject\obj\x86\Debug\MyFirstProject.pdb

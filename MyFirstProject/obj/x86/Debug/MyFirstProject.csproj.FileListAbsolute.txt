@@ -1,0 +1,91 @@
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\MyFirstProject.exe
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\MyFirstProject.pdb
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\obj\x86\Debug\MyFirstProject.csprojResolveAssemblyReference.cache
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\obj\x86\Debug\MyFirstProject.exe
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\obj\x86\Debug\MyFirstProject.pdb
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\s173116\Desktop\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\Content\ship.xnb
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\obj\x86\Debug\MyFirstProject.exe
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\obj\x86\Debug\MyFirstProject.pdb
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\Content\Arial.xnb
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\Content\ship.xnb
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\MyFirstProject.exe
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\MyFirstProject.pdb
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.dll
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.xml
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\obj\x86\Debug\MyFirstProject.csprojResolveAssemblyReference.cache
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\Content\rock_large.xnb
+E:\School\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\Content\bullet.xnb
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\obj\x86\Debug\MyFirstProject.exe
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\obj\x86\Debug\MyFirstProject.pdb
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\Content\Arial.xnb
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\Content\ship.xnb
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\Content\rock_large.xnb
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\Content\bullet.xnb
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\MyFirstProject.exe
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\MyFirstProject.pdb
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.dll
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.xml
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\obj\x86\Debug\MyFirstProject.csprojResolveAssemblyReference.cache
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\Content\Pause.xnb
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\Content\over.xnb
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\Content\start.xnb
+E:\AIE\Certificate 2\Second Semester\Term 3\MyFirstProject\MyFirstProject\bin\Windows\x86\Debug\Content\Galaxy.xnb
+E:\AIE\Certificate 2\Second Semester\Term 3\MySecondProject\MyFirstProject\obj\x86\Debug\MyFirstProject.exe
+E:\AIE\Certificate 2\Second Semester\Term 3\MySecondProject\MyFirstProject\obj\x86\Debug\MyFirstProject.pdb
